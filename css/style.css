@@ -6,12 +6,16 @@
  * Made By MaterializeCSS.com
  */
 body{
-  background-color: #80cbc4;
+  background-color: #bbdefb;
   color: white;
+}
+
+.card{
+  color: #bbdefb;
 }
 nav ul a,
 nav .brand-logo {
-  color: #80cbc4;
+  color: #bbdefb;
 }
 
 p {
@@ -95,6 +99,7 @@ footer.page-footer {
 
 #headshot{
   height: 300px;
+  width: 200px;
 }
 
 .icon-footer{
