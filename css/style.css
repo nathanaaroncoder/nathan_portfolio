@@ -6,16 +6,19 @@
  * Made By MaterializeCSS.com
  */
 body{
-  background-color: #bbdefb;
+  background-color: #b2dfdb;
   color: white;
 }
 
+.material-icons{
+  color: #b2dfdb;
+}
 .card{
-  color: #bbdefb;
+  color: #b2dfdb;
 }
 nav ul a,
 nav .brand-logo {
-  color: #bbdefb;
+  color: #b2dfdb;
 }
 
 p {
